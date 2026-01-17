@@ -1,91 +1,72 @@
 # Major Project – Cloud Exposure to Application Compromise
 
-## 📌 Project Title
-**Cloud Exposure to Application Compromise: Attack Path Discovery and Exploitation Framework**
+## 📌 Title
+
+**Cloud Exposure to Application Compromise:  
+Attack Path Discovery and Exploitation Framework**
 
 ---
 
-## 🧭 Project Status
+## 🧭 Status
+
 🚧 **In Progress**  
-(Current phase: architecture design and attack path modeling)
+(Current phase: architecture design & attack path modeling)
 
 ---
 
 ## 🔍 Motivation
-Modern cloud-hosted applications are frequently compromised not through traditional web vulnerabilities alone, but via **cloud exposure**, such as:
 
-- Publicly exposed cloud resources
-- Leaked access tokens and credentials
+Modern attacks often begin with **cloud exposure**, not traditional application vulnerabilities.
+
+Examples include:
+- Exposed cloud resources
+- Leaked credentials or tokens
 - Over-privileged identities
-- Weak identity and access control boundaries
+- Weak authorization boundaries
 
-This project aims to simulate **real-world attacker behavior**, focusing on **attack path discovery** rather than isolated vulnerability identification.
+This project focuses on **attack path discovery**, modeling how attackers move from **cloud exposure to application compromise**.
 
 ---
 
-## 🎯 Project Objectives
-- Identify cloud exposure points linked to web and API applications
-- Simulate realistic penetration testing workflows
-- Chain cloud misconfigurations into application-level compromise
-- Demonstrate security and business impact
+## 🎯 Objectives
+
+- Identify cloud exposure points
+- Validate exploitability in controlled environments
+- Chain cloud weaknesses into application-level impact
+- Demonstrate realistic attacker behavior
 - Produce professional penetration testing reports
 
 ---
 
 ## 📐 Scope
 
-### ✔ In Scope
-- Cloud exposure discovery (assets, secrets, identities)
-- Web and REST API penetration testing
-- Authentication & authorization abuse
-- Privilege escalation and attack chaining
-- Professional reporting and remediation guidance
+### In Scope
+- Cloud exposure discovery
+- Web & API penetration testing
+- Identity and authorization abuse
+- Privilege escalation
+- Attack path chaining
+- Reporting & remediation guidance
 
-### ❌ Out of Scope
-- Testing of real production systems
-- Zero-day vulnerability research
-- Malware development or persistence mechanisms
+### Out of Scope
+- Production systems
+- Zero-day research
+- Malware development
+- Persistence mechanisms
 
 ---
 
-## 🧠 Methodology Overview
-The framework follows a structured attack path approach:
+## 🧠 Methodology
 
 1. Cloud exposure discovery  
 2. Initial access validation  
 3. Web & API enumeration  
-4. Privilege escalation and abuse  
+4. Privilege escalation  
 5. Attack path chaining  
-6. Reporting and remediation
+6. Reporting & remediation
 
 ---
 
-## 🏗️ Planned Architecture
-- Attacker environment for controlled penetration testing
-- Cloud-backed web application with REST APIs
-- Simulated cloud services for storage and identity
-- Logging and evidence collection
-- Reporting module for structured findings
+## 🔒 Ethics
 
----
-
-## 🛠️ Technologies (Planned)
-- Python
-- Flask (Web Application)
-- REST APIs
-- Simulated cloud services
-- Custom testing scripts
-- HTML / PDF reporting
-
----
-
-## 🚀 Expected Outcomes
-- Demonstration of realistic cloud-to-application attack paths
-- Strong understanding of modern penetration testing methodology
-- Industry-aligned penetration testing documentation
-- Foundation for advanced red team skill development
-
----
-
-## 🔒 Ethical Note
-All testing will be conducted in **controlled environments** strictly for academic and educational purposes.
+All testing is conducted in **controlled, non-production environments** for academic and educational purposes.
