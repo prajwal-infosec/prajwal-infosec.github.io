@@ -1,46 +1,28 @@
 # Prajwal Pawar
 
-🎓 Final Year Cybersecurity Student  
-🔐 Aspiring Penetration Tester | CTF Creator  
+🔐 Aspiring Penetration Tester  
+🎯 CPTS (In Progress)  
 📍 India  
 
 ---
 
-## 👋 About Me
+## 👋 About
 
-I am a cybersecurity student with a strong interest in **offensive security, penetration testing, and adversary simulation**.
+I work in **offensive security and penetration testing**, focusing on how attackers move from **initial access to meaningful impact**.
 
-I actively work on:
-- Capture The Flag (CTF) challenges
-- Vulnerable lab environments
-- Web & API security testing
-- Active Directory attack paths
+My interests include:
+- Attack path discovery
+- Cloud exposure & misconfigurations
+- Active Directory security
+- Privilege escalation
+- Professional penetration testing reporting
 
-Currently preparing for **Certified Penetration Testing Specialist (CPTS)**.
-
----
-
-## 🛠️ Technical Interests
-
-- Web & API Pentesting
-- Linux & Windows Privilege Escalation
-- Active Directory Attacks
-- Vulnerability Research (CVE Analysis)
-- CTF Challenge Design & Infrastructure
+This site documents **selected security work and projects**, with emphasis on **real-world relevance**.
 
 ---
 
 ## 📂 Portfolio
 
 - 🔬 [Projects](projects/)
-- 🧪 [CTF Challenges](ctfs/)
-- 📘 [Learning Logs](learning-logs/)
-- 🎯 [CPTS Journey](cpts/)
-
----
-
-## 📫 Connect With Me
-
-- GitHub: https://github.com/prajwal-infosec
-- LinkedIn: https://www.linkedin.com/in/prajwal-pawar-598b56215/
-
+- 📘 [CPTS Journey](cpts/)
+- 📚 [Learning Logs](learning-logs/)
