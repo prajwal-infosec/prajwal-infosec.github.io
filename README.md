@@ -8,7 +8,7 @@
 
 ### 🧠 About Me
 
-I focus on **offensive security and penetration testing**, with particular interest in:
+I focus on **offensive security and penetration testing**, with a strong interest in:
 
 - Attack path discovery
 - Cloud exposure and misconfigurations
@@ -32,8 +32,9 @@ I prefer **depth over noise** and document only **high-impact, real-world securi
 
 ### 🎯 Current Focus
 
-- CPTS preparation (HTB Academy)
+- CPTS preparation
 - Web & API penetration testing
+- Cloud exposure & identity abuse
 - Active Directory attack paths
 - Linux & Windows privilege escalation
 - Penetration testing documentation & reporting
@@ -52,31 +53,9 @@ I prefer **depth over noise** and document only **high-impact, real-world securi
 
 ---
 
-### 📘 CPTS Journey (Selective)
-
-✔ Network Enumeration (Nmap)  
-✔ Web Information Gathering  
-✔ Vulnerability Assessment  
-✔ Metasploit Framework  
-⏳ Active Directory  
-⏳ Privilege Escalation  
-⏳ Reporting & Documentation  
-
-> Only modules with **direct real-world relevance** are documented.
-
----
-
 ### 🌐 Portfolio Website
 
 🔗 **https://prajwal-infosec.github.io**
-
----
-
-### 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prajwal-infosec&show_icons=true&theme=dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=prajwal-infosec&theme=dark)
 
 ---
 
